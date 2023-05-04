@@ -1,46 +1,14 @@
-Tool,Website
-ActiveCollab,https://activecollab.com/
-Airtable,https://www.airtable.com/
-Asana,https://asana.com/
-Basecamp,https://basecamp.com/
-Bitbucket,https://bitbucket.org
-Bitrix24,https://www.bitrix24.uk/
-Clarizen,https://success.clarizen.com/hc/en-us
-ClickUp,https://clickup.com/
-Easy Projects,https://www.easyprojects.net/
-Forecast,https://www.forecast.app/
-Freedcamp,https://freedcamp.com/
-GanttPRO,https://ganttpro.com/
-GitHub,https://github.com/features/issues
-GitLab,https://about.gitlab.com/solutions/agile-delivery/
-Hive,https://hive.com/
-Jira,https://www.atlassian.com/software/jira
-KanbanFlow,https://kanbanflow.com/
-LiquidPlanner,https://www.liquidplanner.com/
-MeisterTask,https://www.meistertask.com/
-Microsoft Project,https://www.microsoft.com/en-gb/microsoft-365/project/project-management-software
-Monday.com,http://monday.com
-Nifty,https://niftypm.com/
-Notion,https://www.notion.so/
-Nutcache,https://www.nutcache.com/
-Paymo,https://www.paymoapp.com/
-Planio,https://plan.io/
-Podio,https://www.podio.com/
-ProjectManager.com,http://projectmanager.com
-ProofHub,https://www.proofhub.com/
-ProWorkflow,https://www.proworkflow.com/
-RationalPlan,https://www.rationalplan.com/
-Redmine,https://www.redmine.org/
-Sciforma,https://www.sciforma.com/
-Scoro,https://www.scoro.com/
-Smartsheet,https://www.smartsheet.com/
-Taskworld,https://taskworld.com/
-TeamGantt,https://www.teamgantt.com/
-Teamwork,https://www.teamwork.com/
-Todoist,https://todoist.com/
-Trello,https://trello.com/
-Adobe Workfront,https://business.adobe.com/uk/products/workfront/
-Workzone,https://www.workzone.com/
-Wrike,https://www.wrike.com/
-Zenkit,https://zenkit.com/
-Zoho Projects,https://www.zoho.com/projects/ 
+name,free,price-per-user,website,users,open-source,documentation,sso,api,slack-integration,github-integration,google-drive-integration,one-drive-integration
+ClickUp,yes,$0.00,https://clickup.com/,unlimited,no,yes,no,yes,yes,yes,yes,yes
+ClickUp,no,$5.00,https://clickup.com/,unlimited,no,yes,no,yes,yes,yes,yes,yes
+GitHub,yes,$0.00,https://github.com/features/issues,unlimited,no,yes,no,yes,no,no,no,no
+GitHub,no,$3.67,https://github.com/features/issues,unlimited,no,yes,no,yes,no,no,no,no
+Jira,yes,$0.00,https://www.atlassian.com/software/jira,10,no,yes,no,yes,yes,yes,yes,yes
+Jira,no,$7.00,https://www.atlassian.com/software/jira,unlimited,no,yes,no,yes,yes,yes,yes,yes
+Microsoft Planner,no,$5.00,https://www.microsoft.com/en-us/microsoft-365/planner/task-management-software,unlimited,no,yes,no,yes,no,yes,no,yes
+Monday.com,yes,$0.00,https://monday.com/,2,no,yes,no,yes,no,no,no,no
+Monday.com,no,$10.00,https://monday.com/,unlimited,no,yes,no,yes,no,no,no,no
+Notion,yes,$0.00,https://www.notion.so/,10,no,yes,no,yes,yes,yes,yes,yes
+Notion,no,$4.00,https://www.notion.so/,unlimited,no,yes,no,yes,yes,yes,yes,yes
+Trello,yes,$0.00,https://trello.com/,unlimited,no,yes,no,yes,yes,yes,yes,yes
+Trello,no,$12.50,https://trello.com/,unlimited,no,yes,no,yes,yes,yes,yes,yes
