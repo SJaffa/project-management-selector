@@ -1,0 +1,70 @@
+List of questions
+
+## Priority simple questions for demo
+- Group size
+  - Enter number
+- Pricing?
+  - Free
+  - Free tier
+  - Paid
+ - Does it have a public API?
+ - How public should it be?
+  - Publicly editable
+  - Publicly viewable
+  - Have some kind of account
+  - Have SSO sign-on to link to institutional accounts
+- Integrations
+  - Slakc
+  - Github
+  - Google drive
+  - OneDrive
+
+
+Simple questions:
+
+- Group size
+  - Enter number
+- Project timescale
+  - Enter months
+- Pricing?
+  - Free
+  - Free tier
+  - Paid
+- Do you have clear goals
+  - Yes
+  - No
+  - Maybe/sort of
+- Does it have a public API?
+- Does it need to be open source?
+- Does it have documentation/tutorials?
+- Can you export the data to other tools?
+- How old is the tool? (how much of a user base is there for experience to draw on?)
+- Does your institution have any discounts/deals with certain providers?
+- Does your institution/funding body restrict use of certain tools/providers?
+- Where does the data need to be stored?
+  - Anywhere, not secure or sensitive
+  - Sensitive/GDPR, might need EU servers or access control?
+  - In house/self hosted
+- How public should it be?
+  - Publicly editable
+  - Publicly viewable
+  - Have some kind of account
+  - Have SSO sign-on to link to institutional accounts
+
+More complex questions:
+- What other tools does it work with?
+- What problem are you having 
+  - Time management
+  - Task assignment
+  - Breaking down tasks
+  - Dealing with difficult collaborators
+  - Communication
+  - Onboarding
+- Is the project:
+  - Developing a new thing
+  - Extending or reworking an existing code
+  - Support and maintenance
+- How do you separate your tasks?
+  - Sequential tasks
+  - Working in parallel on separate tasks
+  - Collaborating on the same task
