@@ -9,3 +9,7 @@ Answer questions about your project nad hte main tools you want to integrate wit
 # Contributing
 
 New tools can be added to the JSON files. New questions should be discussed in a pull request. Contributions welcome.
+
+# Licence
+
+All documents and data are made available under a CC-BY license. More information about our licence can be found on our licencee page.
