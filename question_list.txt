@@ -1,5 +1,25 @@
 List of questions
 
+## Priority simple questions for demo
+- Group size
+  - Enter number
+- Pricing?
+  - Free
+  - Free tier
+  - Paid
+ - Does it have a public API?
+ - How public should it be?
+  - Publicly editable
+  - Publicly viewable
+  - Have some kind of account
+  - Have SSO sign-on to link to institutional accounts
+- Integrations
+  - Slakc
+  - Github
+  - Google drive
+  - OneDrive
+
+
 Simple questions:
 
 - Group size
