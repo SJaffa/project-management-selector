@@ -16,6 +16,7 @@
 
 			],
 			"priceInformation": {
+				"freeOptionAvailable": "yes",
 				"hasFreeOption": {
 					"free": {
 						"tags": {
@@ -62,6 +63,7 @@
 			"name": "name of this tool",
 			"url": "url for this tool",
 			"priceInformation": {
+				"freeOptionAvailable": "no",
 				"hasFreeOption": {
 
 				},
