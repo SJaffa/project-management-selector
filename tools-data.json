@@ -1,0 +1,108 @@
+{
+    "tools": [
+        {
+            "name": "ClickUp", 
+            "url": "https://clickup.com/", 
+            "priceInformation": {
+                "freeOptionAvailable": "yes",
+                "availablePricesPerPerson" : [
+                    {
+                        "value" : "1 person",
+                        "price" : "5"
+                    },
+                    {
+                        "value" : "2-4 people",
+                        "price" : "20"
+                    },
+                    {
+                        "value" : "5-10 people",
+                        "price" : "50"
+                    },
+                    {
+                        "value" : "11-50 people",
+                        "price" : "250"
+                    },
+                    {
+                        "value" : "50+ people",
+                        "price" : "300"
+                    },
+                    {
+                        "value" : "unlimited",
+                        "price" : "300"
+                    }
+                ],
+                "hasFreeOption": {
+                    "free": {
+                        "functionalitiesAvailable": {
+                            "publicAPI": "yes", 
+                            "SSOSignOn": "no", 
+                            "slackIntegration": "yes",
+                            "githubIntegration": "yes", 
+                            "googleDriveIntegration": "yes", 
+                            "OneDriveIntegration": "yes"
+                        }
+                    },
+                    "lowestPricePoint":{
+                        "functionalitiesAvailable": {
+                            "publicAPI": "yes", 
+                            "SSOSignOn": "no", 
+                            "slackIntegration": "yes", 
+                            "githubIntegration": "yes", 
+                            "googleDriveIntegration": "yes", 
+                            "OneDriveIntegration": "yes"
+                        }
+                    }
+				},
+				"noFreeOption": {
+					"cheapestOption": {}
+				}
+            }
+        },
+        {
+            "name": "Jira",
+            "url": "https://www.atlassian.com/software/jira",
+            "priceInformation": {
+                "freeOptionAvailable": "yes",
+                "availablePricesPerPerson" : [
+                    {
+                        "value" : "1 person",
+                        "price" : "7"
+                    },
+                    {
+                        "value" : "2-4 people",
+                        "price" : "28"
+                    },
+                    {
+                        "value" : "5-10 people",
+                        "price" : "70"
+                    },
+                    {
+                        "value" : "11-50 people",
+                        "price" : "350"
+                    },
+                    {
+                        "value" : "50+ people",
+                        "price" : "500"
+                    },
+                    {
+                        "value" : "unlimited",
+                        "price" : "0"
+                    }
+                ],
+                "hasFreeOption": {},
+				"noFreeOption": {
+					"cheapestOption": {
+                        "functionalitiesAvailable": {
+                            "publicAPI" : "yes",
+                            "SSOSignOn" : "no",
+                            "slackIntegration": "yes",
+                            "githubIntegration": "yes",
+                            "googleDriveIntegration": "yes",
+                            "OneDriveIntegration": "yes"
+                        }
+                    }
+				}
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+	"tools": [{
+			"name": "name of this tool",
+			"url": "url for this tool",
+			"teamMemeberRanges": [{
+					"value": "1-3 people"
+				},
+				{
+					"value": "3-20 people"
+				},
+				{
+					"value": "20-50 people"
+				}, {
+					"value": "50+ people"
+				}
+
+			],
+			"priceInformation": {
+				"freeOptionAvailable": "yes",
+				"hasFreeOption": {
+					"free": {
+						"tags": {
+							"scoredTags": {
+								"flexibility": 2,
+								"intuitiveness": 2,
+								"exampleexample": 6
+							},
+							"functionalityTags": [{
+									"value": "Has Kanban Board"
+								},
+								{
+									"value": "Has Teams integration"
+								}
+							]
+						}
+					},
+					"lowestPricePoint": {
+						"tags": {
+							"scoredTags": {
+								"flexibility": 3,
+								"intuitiveness": 4,
+								"exampleexample": 7
+							},
+							"functionalityTags": [{
+									"value": "Has Kanban Board"
+								},
+								{
+									"value": "Has Teams integration"
+								},
+								{
+									"value": "Example of functionality"
+								}
+							]
+						}
+					}
+				},
+				"noFreeOption": {
+					"cheapestOption": {}
+				}
+			}
+		},
+		{
+			"name": "name of this tool",
+			"url": "url for this tool",
+			"priceInformation": {
+				"freeOptionAvailable": "no",
+				"hasFreeOption": {
+
+				},
+				"noFreeOption": {
+					"cheapestOption": {
+						"tags": {
+							"scoredTags": {
+								"flexibility": 4,
+								"intuitiveness": 5,
+								"exampleexample": 7
+							},
+							"functionalityTags": [{
+									"value": "Has Kanban Board"
+								},
+								{
+									"value": "Has Teams integration"
+								},
+								{
+									"value": "Example of functionality"
+								},
+								{
+									"value": "Another example of functionality"
+								}
+							]
+						}
+					}
+				}
+			}
+		}
+	]
+}

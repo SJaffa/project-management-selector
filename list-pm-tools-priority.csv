@@ -1,0 +1,14 @@
+name,url,free,price-per-user,users,open-source,documentation,sso,api,slack-integration,github-integration,google-drive-integration,one-drive-integration
+ClickUp,https://clickup.com/,yes,$0.00,unlimited,no,yes,no,yes,yes,yes,yes,yes
+ClickUp,https://clickup.com/,no,$5.00,unlimited,no,yes,no,yes,yes,yes,yes,yes
+GitHub,https://github.com/features/issues,yes,$0.00,unlimited,no,yes,no,yes,no,no,no,no
+GitHub,https://github.com/features/issues,no,$3.67,unlimited,no,yes,no,yes,no,no,no,no
+Jira,https://www.atlassian.com/software/jira,yes,$0.00,10,no,yes,no,yes,yes,yes,yes,yes
+Jira,https://www.atlassian.com/software/jira,no,$7.00,unlimited,no,yes,no,yes,yes,yes,yes,yes
+Microsoft Planner,https://www.microsoft.com/en-us/microsoft-365/planner/task-management-software,no,$5.00,unlimited,no,yes,no,yes,no,yes,no,yes
+Monday.com,https://monday.com/,yes,$0.00,2,no,yes,no,yes,no,no,no,no
+Monday.com,https://monday.com/,no,$10.00,unlimited,no,yes,no,yes,no,no,no,no
+Notion,https://www.notion.so/,yes,$0.00,10,no,yes,no,yes,yes,yes,yes,yes
+Notion,https://www.notion.so/,no,$4.00,unlimited,no,yes,no,yes,yes,yes,yes,yes
+Trello,https://trello.com/,yes,$0.00,unlimited,no,yes,no,yes,yes,yes,yes,yes
+Trello,https://trello.com/,no,$12.50,unlimited,no,yes,no,yes,yes,yes,yes,yes
